@@ -1,0 +1,66 @@
+site_name: Time Based Design – theory
+copyright: HG 2025
+site_author: Bart Barnard and Hille Engelsma
+site_description: 'Theoretical module of Time Based Design'
+use_directory_urls: false
+
+theme:
+  name: 'material'
+  icon:
+    logo: 'material/library'
+  language: 'en'
+  color_mode: 'dark'
+  user_color_mode_toggle: true
+  include_sidebar: false
+
+extra_css:
+  - css/extra.css
+
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - markdown.extensions.codehilite:
+      guess_lang: False
+      linenums: True
+  - markdown.extensions.toc:
+      permalink: true
+      toc_depth: 3
+  - markdown.extensions.def_list
+  - markdown.extensions.admonition
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - markdown.extensions.footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed
+
+extra_javascript:
+  - js/imgs.js
+
+nav:
+  - Introduction: index.md
+  - Table of Content: toc.md
+  - 1. World and Reality: week1.md
+  - 2. Time and Space: week2.md
+  - 3. Fact and Fiction: week3.md
+  - 4 We and They: week4.md
+  - 5. Signal and Noise: week5.md
+  - 6. Self and Other: week6.md
+  - 7. Presence and Absense: week7.md
+  - Literature: literature.md
