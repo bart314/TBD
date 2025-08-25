@@ -1,18 +1,16 @@
 # 5. Signal and Noise
 
-## Introduction
+## Introduction: perception and media
 
-(Perception and media)
-
-Media and Time
-
-Silence
-
-Acceleration (pace of life, overload)
-
-Play (as creative filtering)
+## Preperation
 
 ## Assignment
+
+## Keywords
+- Media and Time
+- Silence
+- Acceleration (pace of life, overload)
+- Play (as creative filtering)
 
 ## literature
 - Han

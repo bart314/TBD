@@ -1,17 +1,11 @@
-# 1. We and They
+# 4. We and They
 
-## Introduction relations
+## Introduction: relations
 
-Self and Other
+## Preperation
 
-Identity and Authenticity
 
-Audience / Participation
-
-Dialogue
-
-## wat te doen
-
+## Assignment
 Beginnen met narratief, (groeps-)identiteit, openen van een wereld
 
 Wereld maken
@@ -20,8 +14,11 @@ Door welke verhalen zijn ze gevormd
 
 Dat we zelf een ding meenemen 
 
-## Assignment
-
+## Keywords
+- Self and Other
+- Identity and Authenticity
+- Audience / Participation
+- Dialogue
 
 ## Literature
 

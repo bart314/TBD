@@ -1,23 +1,19 @@
-## 2. Fact and Fiction
+# 3. Fact and Fiction
 
-## Introduction
+## Introduction: narratives and mediation
 
-
-(narratives and mediation)
-
-Medium and Message
-
-Aura (original vs. reproduction)
-
-Storytelling / Myth
-
-Communication
-
-
+## Preperation
 
 ## Assignment
 
+## Keywords
+- Medium and Message
+- Aura (original vs. reproduction)
+- Storytelling / Myth
+- Communication
+
 ## Literature
+
 - Benjamin
 - Han
 - Gumbrecht

@@ -1,19 +1,15 @@
 # 7. Presence and Absense
 
-## Introduction
+## Introduction: memory of experience
 
-(artistic process and sharing)
-
-(Breaking the) Fourth Wall
-
-Participation / Co-presence
-
-Trace / Afterimage
-
-Memory of experience
+## Preperation
 
 ## Assignment
 
+## Keywords
+- (Breaking the) Fourth Wall
+- Participation / Co-presence
+- Trace / Afterimage
 
 ## literature
 - Barrett

@@ -1,19 +1,16 @@
-## 6. Self and Other
+# 6. Self and Other
 
-## Introduction
+## Introduction: embodiment
 
-(Embodiment)
-
-Body as medium
-
-Embodiment / Voice
-
-Spirituality
-
-Unavailability (Unverfügbarkeit)
+## Preperation
 
 ## Assignment
 
+## Keywords
+- Body as medium
+- Embodiment / Voice
+- Spirituality
+- Unavailability (Unverfügbarkeit)
 
 ## literature
 - Han
