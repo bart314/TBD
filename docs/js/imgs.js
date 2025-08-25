@@ -21,8 +21,3 @@ document.querySelectorAll("img").forEach( (el,idx) => {
 
 modal.addEventListener('click', () => modal.style.display = "none" ) 
 
-document.querySelectorAll('a').forEach (el => el.addEventListener('click', evt => {
-  const t = evt.target.href
-  if (t.indexOf('webtech3') == -1) evt.target.setAttribute('target', '_blank')
-})
-)

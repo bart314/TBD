@@ -11,6 +11,7 @@ blockquote p {
 
 .md-typeset a { color:blueviolet; }
 div.admonition { font-size:.8rem; border:solid gray 1px; width:75%; margin:auto !important; margin-bottom:2vh; }
+div.tabbed-set { border:solid lightblue .5px; padding:1vh 1vw; }
 img { display:block; margin:auto; width:55%; border:solid gray 1px;cursor:pointer; }
 img:hover{opacity:0.7}
 h2 { font-size:1.5rem; }
