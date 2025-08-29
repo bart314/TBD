@@ -3,7 +3,7 @@
 
 ## Assignments
 
-For every session, an assignment is given on which you works on an individual basis. The format of the result of this assignment is given at the assignment itself. After the plenary discussions, you need to refine your elaborations and provide a critical reflection on them.
+For every session, a *practical* and a *writing* assignment are given on which you work on an individual basis. The format of the result of this assignment is given at the assignment itself. After the plenary discussions, you need to refine your elaborations and provide a critical reflection on them.
 
 ## Portfolio
 

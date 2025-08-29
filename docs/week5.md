@@ -1,5 +1,7 @@
 # 5. Signal and Noise
 
+Hier ook iets over geluid (afstemmen met Jan-Ruurd?)
+
 ## Introduction: perception and media
 
 ## Preperation

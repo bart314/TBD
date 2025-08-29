@@ -3,38 +3,38 @@
 > Die Welt ist alles, was der Fall ist
 
 
-## Introduction: Frame of Experience
+## Introduction: Resonance
 
-When we go around our daily business, we interact with reality, with the *things around us*. When we, for example, take the bus to the academy, we lean against the lamppost while we doom-scroll over our telephone and wait for the bus to arrive. When we see the bus coming around the corner, we put away our telephone, take out our card, and signal the driver that we want to get in. We use the machine to check in, walk to the nearest free chair and sit down, put our back on the chair next to us, get out our phone again and continue doom-scrolling.
+When we look around in our world, we encounter a lot of stuff in it: chairs, telephones, planes, trains, or automobiles. However, this stuff *means* something to us: we can use a chair to sit on, or a train to get from A to B.
 
-Most of these interactions are done without much conscious thought. We don't *think* about the lamppost when we lean against it, we *just do it*. We don't necessary *think* about the action of checking in; instead, we say hello to the driver and mind the person in front of us – an absent-mindedness that sometimes results in questions like 'did I check in or not 🤔?'.
+However, apart from this more functional meaning, the stuff we encounter also has a particula meaning *for* us: my telephone means something to me, as yours does to you. However, the meaning I attach to my telephone is (in all likelihood) *different* from the meaning you attach to yours.
 
-In all these unconscious interactions, we take a lot of the reality for granted. We don't think the lamppost will bent when we put our shoulder against it, or that the chair in the bus will prove unable to carry our weight. In a sense, the lamppost or the chair *disappear* in their daily use: the objects we use in this sense can be said to be *absent* in their objectivity – they have become *transparant*.
+And it is probable that you have some stuff that only has a *meaning*, a *significance* for you, like a stone you picked up when you were a kid, some poster or design you created when you were a juvenile. Or there are things that mean something to you and to people like you, or you gravitate towards (kind of) people that attach (kind of) the same significance to the same (kind of) objects...
 
-One could say that these unconsious interactions and this taking for granted of reality forms out *frame of experience*: a frame that is in place once we know how our world works, a frame that has become an invisible background in our daily practice.
+All this leads us to conclude that the world we experience is something different than the object we encounter in it. In this first session, we are going to investigate the way this works. In so doing, we will look into *resonance* as a meaningful way of relating to the world.
 
-## Assignment
+## Practical exercise
 
-In this assignment you are asked to make this frame visible again. 
+In the practical exercise you are asked to think about the way you interact with the things when commuting to the academy. We will take four (or five) steps to analyse this interaction and eventually distill one central term out of it. 
 
-- Go outside to the public space and choose an object that lots of different people are using. 
-- Take a few minutes to observe the way in which these people use this object, so that you get an understanding of the skillful manner this object is used; can you actually *observe* that this object has ceased to be present?
-- Think about a manner in which the object can become present again. The easiest way is, of course, just to break it so that it is not functional anymore. But no doubt there are other, more interesting ways to make the object come to the fore in its objectivity.
-- Realise your change and see how people react. 
-- Document your work using foto's and film.
 
+## Writing exercise
+
+After the practical exercise you (hopefully) will have a particular view on how you relate to the world. We have introduced a term to describe this relation and we have discussed quite intensively on its definition. In this writing exercise, you are asked to come up with a *freeform* definition of 'Resonance'. 
+
+Take *ten minutes* to write a text according to the six points below. The basic unit of this practice is the timed exercise. Time yourself for ten minutes and commit yourself to those ten minutes and for that full period.
+
+1.	Keep your hand moving. (Don't pause to reread the line you have just written. That's stalling and trying to get control of what you're saying.)
+2.	Don’t cross out. (That is editing as you write. Even if you write something you didn't mean to write, leave it.)
+3.	Don’t worry about spelling, punctuation, grammar. (Don't even care about staying within the margins and lines on the page.)
+4.	Lose control.
+5.	Don’t think. Don’t get logical.
+6.	Go for the jugular. (If something comes up in your writing that is scary or naked, dive right into it. It probably has lots of energy.)
+
+Next time, we will use this text as input for an editing-exercise, so be sure to take it with you to the next class.
+
+## Examples
 
 ## Keywords
-- Presence and Absence / transparant and opaque
-- Contingency (things could be otherwise)
-- Alienation
-- (Breaking the) fourth wall
 
-
-## literature
-- Barrett
-- Han
-- Hayles
-- Latour
-- Kozel
-- Sennett
+## Literature

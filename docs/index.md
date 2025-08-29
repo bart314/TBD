@@ -23,9 +23,11 @@ Our goal is to impart a good theoretical basis of the key-words of the module: s
 
 ## Educational structure
 
-This module consists of seven sessions of hundredfifty minutes each. Every session is build around a central aspect of the *world-opening*. We start with a small theoretical exposé on that aspect, after which an assignment is given on which the students will works on an individual basis for about an hour – the form of the results of this work vary and are given at the assignment. After this hour, we reconvene and use the remaining time to discuss the results.
+This module consists of seven sessions of 2.5 hours each. Every session is build around a central aspect of the *world-opening*. We start with a small theoretical exposé on that aspect, after which an assignment is given on which the students will works on an individual basis for about an hour – the form of the results of this work vary and are given at the assignment. After this hour, we reconvene and use the remaining time to discuss the results.
 
 Every week, every aspect of the module has its own page on this small website. This page contains a general introduction, a description of the assignment, examples, keywords and literature. Some of the literature is mandatory reading, other literature is given as extra background-information. We expect students to prepare for every session by going over the assignment and reading the mandatory literature.
+
+Apart from this, every week a *writing exercise* is given, one that is usually (but not always) to be made *before* the lesson. The exact details of these writing exercises will be given at the end of each session, but a small description of it is already present in these pages.
 
 Students should keep track of their preparations, their elaborations of the assignments and the text they have read. Apart from this, they should look for other examples of designers or artists that resonate with the subject of that week. The bundle of this preperations, aided and abetted by their own reflection, forms the portfolio on which this module is graded. Please [have a look at the assessment and learning outcomes](assessment.md) for a more detailed overview.
 
