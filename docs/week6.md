@@ -2,9 +2,13 @@
 
 ## Introduction: embodiment
 
-## Preperation
+## Practical exercise
 
-## Assignment
+## Writing exercise
+
+## Examples
+
+## Lectures
 
 ## Keywords
 - Body as medium
@@ -12,8 +16,4 @@
 - Spirituality
 - Unavailability (Unverfügbarkeit)
 
-## literature
-- Han
-- Kozel
-- McLuhan
-- Rosa
+## Literature

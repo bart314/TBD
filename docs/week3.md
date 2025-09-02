@@ -1,21 +1,23 @@
 # 3. Fact and Fiction
 
-## Introduction: narratives and mediation
+## Introduction: Narratives and Mediation
 
 ## Preperation
 
-## Assignment
+## Practical exercise
+
+## Writing exercise
+
+## Examples
+
+## Lectures
 
 ## Keywords
+
 - Medium and Message
 - Aura (original vs. reproduction)
 - Storytelling / Myth
 - Communication
 
+
 ## Literature
-
-- Benjamin
-- Han
-- Gumbrecht
-- Turkle
-

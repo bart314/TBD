@@ -1,5 +1,23 @@
 # 2. Time and Space
 
-> Fijne quote hier, Bergson misschien, of Kant?
+> Le temps est invention, ou il n’est rien du tout.
 
 ## Introduction: Temporalities
+
+## Practical exercise
+
+## Writing exercise
+
+## Examples
+
+## Lectures
+
+## Keywords
+
+- Repetition and Difference
+- Memory
+- Rituals
+- Attention
+
+## Literature
+

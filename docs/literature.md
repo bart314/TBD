@@ -1,18 +1,20 @@
 # Literature
 
-- Barrett, Louise – Beyond the Brain.
-- Benjamin, Walter – Das Kunstwerk in Zeitalter seiner technischen Reproduzirbarkeit (1935/36)
-- Bennett, Jane – Vibrant Matter: A Political Ecology of Things (2010)
-- Certeau, Michel de – The Practice of Everyday Life (1980/1984)
-- Grosz, Elizabeth – Chaos, Territory, Art: Deleuze and the Framing of the Earth (2008)
-- Gumbrecht, Hans Ulrich – Production of Presence: What Meaning Cannot Convey (2004)
-- Han, Byung-Chul – The Transparency Society (2012)
-- Hayles, Katherine – How We Became Posthuman (1999)
-- Latour, Bruno – Nous n'avond été jamais moderne
-- Lipovetsky, Gilles – Authenticité (2021)
-- Kozel, Susan – Closer (2008)
-- McLuhan, Marshall – Understanding Media: The Extensions of Man (1964)
-- Rosa, Hartmut – Resonanz. Soziologie einer Weltbeziehung
-- Sennett, Richard – The Craftsman (2008)
-- Tsing, Anna – The Mushroom at the End of the World (2015)
-- Turkle, Sherry – Alone Together: Why We Expect More from Technology and Less from Each Other (2011)
+- Barrett, Louise, 2011, *Beyond the Brain. How Body and Environment Shape Animal and Human Minds.* Princeton UP.
+- Benjamin, Walter, 1935, *Das Kunstwerk in Zeitalter seiner technischen Reproduzirbarkeit*. Suhrkamp Studienbibliothek 1, pp.7-50.
+- Bennett, Jane, 2010, *Vibrant Matter: A Political Ecology of Things.* Duke UP.
+- Certeau, Michel de, 1984, *The Practice of Everyday Life*. University of California Press.
+- Grosz, Elizabeth, 2020, *Chaos, Territory, Art. Deleuze and the Framing of the Earth.*  Columbia UP.
+- Gumbrecht, Hans Ulrich, 2004, *Production of Presence: What Meaning Cannot Convey.* Leiden/Berlin Brill/De Gruyter.
+- Han, Byung-Chul, 2012, *The Transparency Society.* Stanford UP. 
+- Hayles, Katherine, 1999, *How We Became Posthuman. Virtual Bodies in Cybernetics, Literature and Informatics.* Chicago UP.
+- Kozel, Susan, 2008, *Closer. Performance, Technologies, Phenomenology.* MIT press.
+- Latour, Bruno, 1991, *Nous n'avons été jamais modernes.* Paris: La Découverte.
+- Lipovetsky, Gilles, 2021, *Le sacre de l'authenticité.*. Paris: Éditions Gallimard.
+- Merleau-Ponty, Maurice, 1945, *Phénoménologie de la Perception.*. Paris: Éditions Gallimard.
+- McLuhan, Marshall, 1964, *Understanding Media: The Extensions of Man.*  Routledge.
+- Rosa, Hartmut, 2022, *Resonanz. Eine Sociologie der Weltbeziehung.* Suhrkamp taschenbuch wissenschaft 22272.
+- Sennett, Richard, 2008, *The Craftsman.* Penguin Books.
+- Tsing, Anna, 2015, *The Mushroom at the End of the World. On the Possibility of Life in Capitalist Ruins.* Princeton UP.
+- Turkle, Sherry, 2011, *Alone Together: Why We Expect More from Technology and Less from Each Other.* MIT Press.
+- Visser, Gerard, 2018, *Gelatenheid in de Kunst. Nijhoff, Braque, Kawabata.* Amsterdam, Boom.

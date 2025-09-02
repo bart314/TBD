@@ -2,17 +2,13 @@
 
 ## Introduction: relations
 
-## Preperation
+## Practical exercise
 
+## Writing exercise
 
-## Assignment
-Beginnen met narratief, (groeps-)identiteit, openen van een wereld
+## Examples
 
-Wereld maken
-
-Door welke verhalen zijn ze gevormd
-
-Dat we zelf een ding meenemen 
+## Lectures
 
 ## Keywords
 - Self and Other
@@ -21,9 +17,3 @@ Dat we zelf een ding meenemen
 - Dialogue
 
 ## Literature
-
-- Han
-- Hayles
-- Lipovetsky
-- Rosa
-- Turkle

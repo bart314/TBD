@@ -1,12 +1,14 @@
 # 5. Signal and Noise
 
-Hier ook iets over geluid (afstemmen met Jan-Ruurd?)
+## Introduction: Perception and Media
 
-## Introduction: perception and media
+## Practical exercise
 
-## Preperation
+## Writing exercise
 
-## Assignment
+## Examples
+
+## Lectures
 
 ## Keywords
 - Media and Time
@@ -14,10 +16,4 @@ Hier ook iets over geluid (afstemmen met Jan-Ruurd?)
 - Acceleration (pace of life, overload)
 - Play (as creative filtering)
 
-## literature
-- Han
-- Kozel
-- McLuhan
-- Rosa
-- Tsing
-- Turkle
+## Literature

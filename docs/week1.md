@@ -20,7 +20,9 @@ In the practical exercise you are asked to think about the way you interact with
 
 ## Writing exercise
 
-After the practical exercise you (hopefully) will have a particular view on how you relate to the world. We have introduced a term to describe this relation and we have discussed quite intensively on its definition. In this writing exercise, you are asked to come up with a *freeform* definition of 'Resonance'. 
+After the practical exercise you (hopefully) will have a particular view on how you relate to the world. We have introduced the term 'resonance' to describe this relation and we have discussed quite intensively on its definition.
+
+In this exercise, you are asked to think about something (an event, a thing, a work) that you find very engaging, with which you *resonate*, and to describe your relation with this something in the form of a *freewriting* essay.
 
 Take *ten minutes* to write a text according to the six points below. The basic unit of this practice is the timed exercise. Time yourself for ten minutes and commit yourself to those ten minutes and for that full period.
 
@@ -83,12 +85,24 @@ Rebecca Horn was a German visual artist best known for her installation art, fil
 ![Rebecca Horn, Übungen in neun Stücken](imgs/rebecca-horn.jpeg)
 
 __Sonic Acts: Philip Vermeulen on making More Moiré__
-
+r
 Philip Vermeulen on the making of More Moiré (Sonic Acts). See [this presentation on youtube](https://www.youtube.com/watch?v=PWB1mLQU8-g).
 
 ![Philip Vermeulen More Moiré](imgs/vermeulen-sonic-acts.jpeg)
 
 
-## Keywords
+## Keyterms
+
+- Resonance
+- Alienation
+- Body and world
+- Body and self
 
 ## Literature
+
+- Rosa, H., 2018, [The Idea of Resonance as a Sociological Concept](https://globaldialogue.isa-sociology.org/articles/the-idea-of-resonance-as-a-sociological-concept)
+
+- Rosa (2022):
+    - §§IV.3, IV.4 (pp.211-224; english edition: pp.126-137)
+    - §§V.3, V.4 (pp.281-315; english edition: pp.164-183)
+

@@ -1,20 +1,19 @@
 # 7. Presence and Absense
 
-## Introduction: memory of experience
+## Introduction: Memory of Experience
 
-## Preperation
+## Practical exercise
 
-## Assignment
+## Writing exercise
+
+## Examples
+
+## Lectures
 
 ## Keywords
 - (Breaking the) Fourth Wall
 - Participation / Co-presence
 - Trace / Afterimage
+- Memory of experience
 
-## literature
-- Barrett
-- Benjamin
-- Kozel
-- Senett
-
-
+## Literature
