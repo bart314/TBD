@@ -56,6 +56,7 @@ extra_javascript:
 nav:
   - Introduction: index.md
   - Assessment and learning outcomes: assessment.md
+  - Presentations: presentations.md
   - 1. World and Reality: week1.md
   - 2. Time and Space: week2.md
   - 3. Fact and Fiction: week3.md

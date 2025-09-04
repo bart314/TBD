@@ -20,9 +20,23 @@ In the practical exercise you are asked to think about the way you interact with
 
 ## Writing exercise
 
-After the practical exercise you (hopefully) will have a particular view on how you relate to the world. We have introduced the term 'resonance' to describe this relation and we have discussed quite intensively on its definition.
+__Part 1__
 
-In this exercise, you are asked to think about something (an event, a thing, a work) that you find very engaging, with which you *resonate*, and to describe your relation with this something in the form of a *freewriting* essay.
+Read [the (definition and example) essay *The Idea of Resonance as a Sociological Concept* by Hartmut Rosa](files/the-idea-of-resonance-as-a-sociological-concept_by-hartmut-rosa.pdf). First, skim the text to get an overview without trying to fully understand it – just to get a sense of what it’s about.
+
+Then, read the text closely and critically.
+
+As you go, process the text: annotate by jotting down questions or comments in the margins, underlining important points, circling keywords, and marking places you may want to revisit. Feel free to underline, scribble, or doodle – this is what we call the *processed text*. 
+
+The processed text will be part of your exercises book. 
+
+__Part 2__
+
+a. Think of a word that covers something that interests, fascinates, or intrigues you — something that resonates with you. Start writing from this keyword, following the six *freewriting points* below. Just let your associative, emotional mind guide you, without knowing exactly where the text will take you. You might end up somewhere unexpected.
+
+b. Cut out the parts you don’t need, or that feel too personal to share, and edit the text. Check whether the sentences need to be clearer or more logical, whether you want to add a sentence for clarity, and whether the parts can be shaped into a more coherent whole.
+
+The  text will also be part of your exercises book.
 
 Take *ten minutes* to write a text according to the six points below. The basic unit of this practice is the timed exercise. Time yourself for ten minutes and commit yourself to those ten minutes and for that full period.
 
