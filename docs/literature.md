@@ -8,6 +8,8 @@
 - Gumbrecht, Hans Ulrich, 2004, *Production of Presence: What Meaning Cannot Convey.* Leiden/Berlin Brill/De Gruyter.
 - Han, Byung-Chul, 2012, *The Transparency Society.* Stanford UP. 
 - Hayles, Katherine, 1999, *How We Became Posthuman. Virtual Bodies in Cybernetics, Literature and Informatics.* Chicago UP.
+- Heidegger, Martin, 2000, "Bauen Wohnen Denken." In: ibid., *Gesamtausgabe 1. Abteilung: Veröffentlichte Schriften 1910-1976*. Vittorio Klosterman. pp.147-164.
+- Heidegger, Martin, 2008, "Building Dwelling Thinking". In: ibid., *Basic Writings.* Harper Perennial. pp.343-363.
 - Kozel, Susan, 2008, *Closer. Performance, Technologies, Phenomenology.* MIT press.
 - Latour, Bruno, 1991, *Nous n'avons été jamais modernes.* Paris: La Découverte.
 - Lipovetsky, Gilles, 2021, *Le sacre de l'authenticité.*. Paris: Éditions Gallimard.

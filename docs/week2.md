@@ -18,11 +18,11 @@ We will talk about the way buildings form space in the same way that rituals for
 
 === "DE"
 
-    dingen
+    Der Bezug des Menschen zu Orten und durcht Orte zu Räumen beruht im Wohnen. Das Verhältnis von Mensch und Raum ist nichts anderes als das wesentlich gedachten Wohnen. (Heidegger, 2000, p. 160)
 
 === "EN"
 
-    Man’s relation to locales, and through locales to spaces, inheres in his dwelling. The relationship between man and space is none other than *dwelling*, thought essentially.
+    Man’s relation to locales, and through locales to spaces, inheres in his dwelling. The relationship between man and space is none other than *dwelling*, thought essentially. (Heidegger, 2008, p. 159)
 
 ## Practical exercise
 
