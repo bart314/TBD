@@ -44,6 +44,13 @@ __Part 2__
 
 Using your experience of the practical assignment, please write a *comparison/contrast essay* in which you compare the situation (in space, in time) *before* and *after* your intervention.
 
+- Describe what you are going to investigate.
+- Describe what the space was like *before* the intervention.
+- Describe what the space was like *after* the intervention (use reactions of your fellow-student).
+- Compare the two. Has the experience of space and time changed?
+- Use text, photos and/or video's
+
+
 ## Examples
 
 Who | What | Where
