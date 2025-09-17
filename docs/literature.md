@@ -4,6 +4,7 @@
 - Benjamin, Walter, 1935, *Das Kunstwerk in Zeitalter seiner technischen Reproduzirbarkeit*. Suhrkamp Studienbibliothek 1, pp.7-50.
 - Bennett, Jane, 2010, *Vibrant Matter: A Political Ecology of Things.* Duke UP.
 - Certeau, Michel de, 1984, *The Practice of Everyday Life*. University of California Press.
+- Groentenboer, Hanneke, 2020, *The Pensive Image. Art as a Form of Thinking.* Chicago UP.
 - Grosz, Elizabeth, 2020, *Chaos, Territory, Art. Deleuze and the Framing of the Earth.*  Columbia UP.
 - Gumbrecht, Hans Ulrich, 2004, *Production of Presence: What Meaning Cannot Convey.* Leiden/Berlin Brill/De Gruyter.
 - Han, Byung-Chul, 2012, *The Transparency Society.* Stanford UP. 

@@ -79,5 +79,4 @@ Patrick Jean | Attack of the Pixels | [Youtube](https://www.youtube.com/watch?v=
 - Rituals
 - Attention
 
-## Literature
 
