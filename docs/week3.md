@@ -16,11 +16,11 @@ Interestingly, Hartmut Rosa himself that his term 'Resonance' is used fundamenta
 
 === "DE"
     
-    Es kann kein Zwiefel daran bestehen, dass sich der Resonanzbegriff als Metapher zur Beschreibung von Beziehungsqualitäten in hohem Maße eignet und dass er ein enormes Anregungspotential für die Untersuchung von Weltverhältnissen auf nahezu allen Feldern des menschlichen Lebens entfaltet. Allein, eine solche metaphorische Verwendung des Begriffs genügt nicht den konzeptuellen und systematischen Anforderungen, um Resonanz als einen socialphilosophischen Grundbegriff und eine sozialwissenschaftliche Analysekategorie zu etablieren, auf die sich eine umfassende Soziologie der Weltbeziehung aufbauen ließe. (p.281)
+    Es kann kein Zwiefel daran bestehen, dass sich der Resonanzbegriff als Metapher zur Beschreibung von Beziehungsqualitäten in hohem Maße eignet und dass er ein enormes Anregungspotential für die Untersuchung von Weltverhältnissen auf nahezu allen Feldern des menschlichen Lebens entfaltet. Allein, eine solche metaphorische Verwendung des Begriffs genügt nicht den konzeptuellen und systematischen Anforderungen, um Resonanz als einen socialphilosophischen Grundbegriff und eine sozialwissenschaftliche Analysekategorie zu etablieren, auf die sich eine umfassende Soziologie der Weltbeziehung aufbauen ließe. (Rosa, 2022, p.281)
 
 === "EN"
 
-    There can be no doubt that the concept of resonance is a highly suitable metaphor for describing the qualities of relatinships, and that it moreover offers enormous potential for analyzing how human beings relate to the world in nearly every area of life. Merely employing it metaphorically, however, is not sufficient if we wish to conceptually and systematically establish resonance as a fundemental concept of social philosophy and a social-scientific analytical category on which to build a comprehensive sociology of human relationships to the world. (p.164)
+    There can be no doubt that the concept of resonance is a highly suitable metaphor for describing the qualities of relatinships, and that it moreover offers enormous potential for analyzing how human beings relate to the world in nearly every area of life. Merely employing it metaphorically, however, is not sufficient if we wish to conceptually and systematically establish resonance as a fundemental concept of social philosophy and a social-scientific analytical category on which to build a comprehensive sociology of human relationships to the world. (Rosa, 2019, p.164)
 
 ## Practical exercise
 
@@ -28,8 +28,10 @@ For this week's practical exercise, we want you to bring an object to class. Thi
 
 During class, we will work on coming up with different descriptions of this object, and we will discuss what the most accurate description will be.
 
-## Writing exercise
-__Part 1__
+## Textual exercises
+
+__Part 1: Reading__
+
 Read "Concepts we Live By", the first chapter of [*Metaphors we Live By*](https://www.umsl.edu/~alexanderjm/MetaphorsWeLiveBy.pdf)(pp. 3-6). Use the knowledge, insights and vocabulary that we have conveyed during this class to put this text in a broader context.
 
 Again, read the text closely and critically. As you go, process the text: annotate by jotting down questions or comments in the margins, underlining important points, circling keywords, and marking places you may want to revisit. Feel free to underline, scribble, or doodle. 
@@ -38,7 +40,8 @@ The processed text will be part of your exercises book.
 
 ![Metamorphosis: going from one form into another](imgs/metamorphosis.jpeg)
 
-__Part 2__
+__Part 2: Writing__
+
 Given the discussion during our class, the examples we talked about and more that you can find below, create an object of your own that works as a metaphor. Make sure you also document the making process by using photos and / or movies. Also, make a *description* of the object and what it is conveying in a metaphorical way.
 
 ## Examples
@@ -47,7 +50,6 @@ Who | What | Where
 Meret Oppenheimer | A Woman's Work | [MoMa](https://www.moma.org/collection/works/80997)
 Robert Rauschenberg | Bed | [MoMa](https://www.moma.org/collection/works/78712)
 Marcel Duchamp | Fountain | [Wikipedia](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
-Dallas Campbell | Pong played by a Crowd | [Youtube](https://www.youtube.com/watch?v=LqXDq8JL-JQ)
 
 
 ## Lectures

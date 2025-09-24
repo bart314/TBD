@@ -17,6 +17,7 @@
 - Merleau-Ponty, Maurice, 1945, *Phénoménologie de la Perception.*. Paris: Éditions Gallimard.
 - McLuhan, Marshall, 1964, *Understanding Media: The Extensions of Man.*  Routledge.
 - Rosa, Hartmut, 2022, *Resonanz. Eine Sociologie der Weltbeziehung.* Suhrkamp taschenbuch wissenschaft 22272.
+- Rosa, Hartmut, 2019, *Resonance. A Sociology of our Relationship with the World.*. Translated by James C. Wagner. Polity Press.
 - Sennett, Richard, 2008, *The Craftsman.* Penguin Books.
 - Tsing, Anna, 2015, *The Mushroom at the End of the World. On the Possibility of Life in Capitalist Ruins.* Princeton UP.
 - Turkle, Sherry, 2011, *Alone Together: Why We Expect More from Technology and Less from Each Other.* MIT Press.

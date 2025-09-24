@@ -30,9 +30,9 @@ In this week's exercise, you are asked to work in duo's, go outside (of the clas
 
 ![Salvator Dalí: La persistència de la memòria](imgs/dali-klok.jpeg)
 
-## Writing exercise
+## Textual exercises
 
-__Part 1__
+__Part 1: Reading__
 
 Read ["Clocks, The Scent of Time" (chapter 15 of McLuhan's *Understanding Media*, McLuhan (1964))](files/mcluhan-clock.pdf). Use the knowledge, insights and vocabulary that we have conveyed during this class to put this text in a broader context.
 
@@ -40,7 +40,7 @@ Again, read the text closely and critically. As you go, process the text: annota
 
 The processed text will be part of your exercises book. 
 
-__Part 2__
+__Part 2: Writing__
 
 Using your experience of the practical assignment, please write a *comparison/contrast essay* in which you compare the situation (in space, in time) *before* and *after* your intervention.
 

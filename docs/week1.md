@@ -18,9 +18,9 @@ All this leads us to conclude that the world we experience is something differen
 In the practical exercise you are asked to think about the way you interact with the things when commuting to the academy. We will take four (or five) steps to analyse this interaction and eventually distill one central term out of it. 
 
 
-## Writing exercise
+## Textual exercises
 
-__Part 1__
+__Part 1: Reading__
 
 Read [the (definition and example) essay *The Idea of Resonance as a Sociological Concept* by Hartmut Rosa](files/the-idea-of-resonance-as-a-sociological-concept_by-hartmut-rosa.pdf). First, skim the text to get an overview without trying to fully understand it – just to get a sense of what it’s about.
 
@@ -30,7 +30,7 @@ As you go, process the text: annotate by jotting down questions or comments in t
 
 The processed text will be part of your exercises book. 
 
-__Part 2__
+__Part 2: Writing__
 
 a. Think of a word that covers something that interests, fascinates, or intrigues you — something that resonates with you. Start writing from this keyword, following the six *freewriting points* below. Just let your associative, emotional mind guide you, without knowing exactly where the text will take you. You might end up somewhere unexpected.
 

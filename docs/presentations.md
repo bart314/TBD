@@ -9,3 +9,7 @@ The presentations that we have used during the classes will be made available he
 ## 2. Space and Time
 - [presentation about (Heidegger's analysis of) time and space](files/2.time-space.pdf)
 - [presentation about Karan Barad (and a little bit about Niels Bohr)](files/2.karen-barad.pdf)
+
+## 3. Fact and Fiction
+- [presentation about Graham Harman, including some oranges](files/3.graham-harman.pdf)
+- [small presentation about the *principle of charity* and the *suspension of disbelief*](files/3.fact-fiction.pdf)
