@@ -13,3 +13,10 @@ The presentations that we have used during the classes will be made available he
 ## 3. Fact and Fiction
 - [presentation about Graham Harman, including some oranges](files/3.graham-harman.pdf)
 - [small presentation about the *principle of charity* and the *suspension of disbelief*](files/3.fact-fiction.pdf)
+
+## 4. Us and Them
+- [presentation about the role of rituals in the forming of communities](files/4.we-they.pdf)
+
+
+## 5. Narrative
+- [presentation about narratives and story telling](files/5.narrative.pdf)
