@@ -1,4 +1,4 @@
-# 5. Signal and Noise
+# 5. The narrative
 
 ## Introduction: Perception and Media
 

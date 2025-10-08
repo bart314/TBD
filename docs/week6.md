@@ -1,6 +1,6 @@
-# 6. Self and Other
+# 6. Umwelt
 
-## Introduction: embodiment
+## Introduction: 
 
 ## Practical exercise
 
@@ -11,9 +11,5 @@
 ## Lectures
 
 ## Keywords
-- Body as medium
-- Embodiment / Voice
-- Spirituality
-- Unavailability (Unverfügbarkeit)
 
 ## Literature

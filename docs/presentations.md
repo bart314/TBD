@@ -20,3 +20,6 @@ The presentations that we have used during the classes will be made available he
 
 ## 5. Narrative
 - [presentation about narratives and story telling](files/5.narrative.pdf)
+
+## 6. Umwelt
+- [Presentation about Latour's Actor Network Theory and the idea of Umwel](files/6.self-other.pdf)

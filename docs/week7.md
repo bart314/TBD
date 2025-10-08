@@ -1,4 +1,4 @@
-# 7. Presence and Absense
+# 7. Synthesis and evaluation
 
 ## Introduction: Memory of Experience
 
@@ -11,9 +11,5 @@
 ## Lectures
 
 ## Keywords
-- (Breaking the) Fourth Wall
-- Participation / Co-presence
-- Trace / Afterimage
-- Memory of experience
 
 ## Literature
