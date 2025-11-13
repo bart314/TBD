@@ -21,11 +21,8 @@ There are voices calling for more wolves to be killed, and other even want to er
 
 Try to write from the wolf's point of view, based on what you know about the animal – a letter in which you, as a wolf, try to foster understanding for your own place in living alongside humans.
 
-
 ## Examples
 
 ## Lectures
-
-## Keywords
 
 ## Literature

@@ -74,11 +74,4 @@ Patrick Jean | Attack of the Pixels | [Youtube](https://www.youtube.com/watch?v=
 - [James Turrell at the Guggenheim Museum](https://www.youtube.com/watch?v=MVoMJHSNyI0)
 
 
-## Keywords
-
-- Repetition and Difference
-- Memory
-- Rituals
-- Attention
-
-
+## Literature

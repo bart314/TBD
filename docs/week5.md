@@ -27,10 +27,4 @@ Come up with a captivating first sentence (remember the [*suspention of disbelie
 
 ## Lectures
 
-## Keywords
-- Media and Time
-- Silence
-- Acceleration (pace of life, overload)
-- Play (as creative filtering)
-
 ## Literature

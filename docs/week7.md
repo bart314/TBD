@@ -14,6 +14,4 @@
 
 ## Lectures
 
-## Keywords
-
 ## Literature

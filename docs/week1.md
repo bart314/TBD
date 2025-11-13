@@ -107,13 +107,6 @@ Philip Vermeulen on the making of More Moiré (Sonic Acts). See [this presentati
 ![Philip Vermeulen More Moiré](imgs/vermeulen-sonic-acts.jpeg)
 
 
-## Keyterms
-
-- Resonance
-- Alienation
-- Body and world
-- Body and self
-
 ## Literature
 
 - Rosa, H., 2018, [The Idea of Resonance as a Sociological Concept](https://globaldialogue.isa-sociology.org/articles/the-idea-of-resonance-as-a-sociological-concept)

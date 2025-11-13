@@ -56,11 +56,4 @@ Marcel Duchamp | Fountain | [Wikipedia](https://en.wikipedia.org/wiki/Fountain_(
 
 ## Lectures
 
-## Keywords
-
-- Medium and Message
-- Metaphors
-- Storytelling / Myth
-- Communication
-- (Breaking) the fourth wall
-- Principle of Charity
+## Literature

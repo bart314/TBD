@@ -54,10 +54,4 @@ Blast Theory | Can You See Me Now? | [BlastTheory.com](https://www.blasttheory.c
 - [Kara Walker in *Stories*](https://art21.org/watch/art-in-the-twenty-first-century/s2/kara-walker-in-stories-segment/)
 - [Suzanne Lacy on *Three Weeks in May*](https://www.youtube.com/watch?v=ie7A8F0D-k4)
 
-## Keywords
-- Self and Other
-- Identity and Authenticity
-- Audience / Participation
-- Dialogue
-
 ## Literature
