@@ -2,6 +2,8 @@
 
 > La rue assourdissante autour de moi hurlait.
 
+– Charles Beaudelaire
+
 ## Introduction: Narratives and Metaphors
 
 We open worlds by telling each other stories. However, in telling these stories, we need to take our own worlds and experiences into account. We cannot expect our audiences to enter into a world that is *so completely different* from our own, that they don't understand *anything* about it. Our experiences, our biological and pyschological make-up, our own *being-in-the-world* dictates the understanding we can have of other worlds. 

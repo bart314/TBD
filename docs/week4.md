@@ -1,6 +1,8 @@
 # 4. Us and Them
 
-> The idea of a sociological organism moving calendrically through homogenous, empty time is a precise analogue of the idea of the nation, which also is conceived as a solid community moving steadily down (or up) history.  (Anderson, 1983, 26)
+> The idea of a sociological organism moving calendrically through homogenous, empty time is a precise analogue of the idea of the nation, which also is conceived as a solid community moving steadily down (or up) history.  
+
+– Benedict Anderson
 
 ## Introduction: Relations and Rituals
 

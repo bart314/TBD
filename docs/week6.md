@@ -1,6 +1,10 @@
-# 6. Umwelt
+# 6. Word and Object
 
-## Introduction: 
+> Ich fürchte mich so vor der Menschen Wort.
+
+– Rainer Maria Rilke
+
+## Introduction: Umwelt
 
 ## Practical exercise
 

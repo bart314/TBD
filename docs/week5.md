@@ -1,6 +1,10 @@
-# 5. The narrative
+# 5. Presence and Absence
 
-## Introduction: Perception and Media
+> Humans are bringers-forth; through their activity, they guide means of life into presence; they are poetic beings. Humans have ideas, and that to such an extent that their producing is in the first place and essentially an imagining of sights, of ideas. 
+
+– Michael Eldred
+
+## Introduction: The narrative
 
 ## Practical exercise
 

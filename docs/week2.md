@@ -2,6 +2,8 @@
 
 > Le temps est invention, ou il n’est rien du tout.
 
+– Henri Bergson
+
 ## Introduction: Temporalities
 
 In this session, we will look into the phenomena of *Time* and *Space*. We will see that you can look at both of them in (at least) a mathematical and in a phenomenological sense, that there is an inherent friction between those ways of seeing, and that interesting things start to happen when you make this friction explicit.

@@ -2,6 +2,8 @@
 
 > Die Welt ist alles, was der Fall ist
 
+– Ludwig Wittgenstein
+
 
 ## Introduction: Resonance
 
