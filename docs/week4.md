@@ -38,7 +38,7 @@ The processed text will be part of your exercises book.
 
 __Part 2: Writing__
 
-The writing exercise will de done during class.
+*Resonance on Resonance*: in our sessions we talk a lot about resonance – you could almost see that phenomenon as a myth of creation for our small community. Write a small, personal and critical essay on how you feel within that community. What do you like and what don't you like about that community...? What would you like to change or add to it?
 
 ## Examples
 Who | What | Where
