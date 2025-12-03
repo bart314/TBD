@@ -22,7 +22,7 @@ We will look into the role *stories* and *rituals* play in creating bondings bet
 
 In this session, we are going to make a few groups (three or four, depending on the number of participants). Each of this group is asked to create a group identity, including (but not limited to) narratives, rituals, ways of being-in-the-world.
 
-Write a short (creation) story that’s part of your world/community  in legible handwriting of around 300 words, containing a clear plot: introduction – conflict/climax – resolution/end. So set up a situation. Introduce a conflict, build up the dramatic tension until it reaches a high point or climax, and then release the tension and resolve the conflict (or turn into a tragic downfall). 
+Start to write a short (creation) story that’s part of your world/community  in legible handwriting of around 300 words, containing a clear plot: introduction – conflict/climax – resolution/end. So set up a situation. Introduce a conflict, build up the dramatic tension until it reaches a high point or climax, and then release the tension and resolve the conflict (or turn into a tragic downfall). 
 
 After this creational phase, the groups are invited to investigate how they *relate* to each other – as if they were on a voyage of discovery and came across other cultures. 
 
@@ -39,6 +39,8 @@ Again, read the text closely and critically. As you go, process the text: annota
 The processed text will be part of your exercises book. 
 
 __Part 2: Writing__
+
+Finish the creation story that was part of [the practical exercise](#practical-exercise). You can do this in group, but please deliver it on an individual basis.
 
 *Resonance on Resonance*: in our sessions we talk a lot about resonance – you could almost see that phenomenon as a myth of creation for our small community. Write a small, personal and critical essay on how you feel within that community. What do you like and what don't you like about that community...? What would you like to change or add to it?
 
