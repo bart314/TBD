@@ -1,8 +1,8 @@
 # 4. Us and Them
 
-> The idea of a sociological organism moving calendrically through homogenous, empty time is a precise analogue of the idea of the nation, which also is conceived as a solid community moving steadily down (or up) history.  
+> Die findige Tieren mercken es schon / daß wir nicht wirklich sehr verläßlich zu Haus sind / in der gedeuteten Welt.
 
-– Benedict Anderson
+– Reiner Maria Rilke
 
 ## Introduction: Relations and Rituals
 
