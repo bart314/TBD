@@ -31,6 +31,12 @@ For the practical exercise of this week, we ask you to bring a commercial poster
 
 Deconstruct or undermine the message of your poster using two deconstructive strategies from the list below. Apply these strategies in such a way that your deconstructed ad parodies or ironizes the original message and reveals a hidden meaning—making present what was previously absent. Clearly describe which two strategies you used.
 
+For inspiration, see: 
+
+- [Robert Colescott: Subverting History with Satire and Color](https://www.theartdistricts.org/news/robert-colescott-subverting-history-with-satire-and-color)
+
+- [Classic Paintings Provide the Perfect Backdrop for Feminist Memes About Mansplaining](https://hyperallergic.com/582404/nicole-tersigni-men-to-avoid-in-art-and-life/)
+
 List of deconstructive strategies you can pay attention to for the assignment:
 
 __Decontextualize / Fragment and Combine__
