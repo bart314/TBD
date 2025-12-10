@@ -6,6 +6,13 @@
 
 ## Introduction: Umwelt
 
+
+## Preperation
+1. Think about (or actually; from the perspective of) an animal that is constantly mis-understood. For example, a cow or a bog that feels terrified when it is being brought to the slaughterhouse, an octopus that has a completely different form of intelligence than we have, or a wolve that is seen as a big dangerous animal.
+2. During the reces, try to find something (art, design, ...) that is mundane in your vicinity but would be remarkable in another (e.g. a commercial that makes perfect sense in your country but would be very strange to see in The Netherlands). Take it (or a photograph of it) with you the this session.
+
+![An octopus...](imgs/octopus.jpeg)
+
 ## Practical exercise
 
 ## Writing exercise
