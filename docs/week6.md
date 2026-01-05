@@ -18,7 +18,7 @@ In order to describe this particular relationship between an organism and enviro
 
 ![Uexküll's *circular feedback system*](imgs/uexkülls-schema-original.jpeg)
 
-All this is relevant for Time Based design and art, as it calls into question the way we *perceive* the works that we create. Actually, can we make art for non-human animals...?
+All this is relevant for Time Based design and art, as it calls into question the way we *perceive* the works that we create. Actually, can we make art for non-human animals...? Can we create a world without words?
 
 
 ## Preperation
@@ -39,6 +39,8 @@ In this exercise, we are going to *experience* different *Umwelts*.
 
 !!! Warning "No text"
     Please note that in your elaboration you are not allowed to use text or icons: the Umwelt must be *felt*, not *explained*.
+
+What Uexküll calls *Umwelt* shows that every being lives in a selective world; Heidegger shows that this world is always already meaningful through *involvement*; and Rosa reminds us that resonance only becomes possible within such a world — when something appears that can answer us. There is no world without a filter — and no resonance without a world that can answer.
 
 ## Writing exercise
 __Part 1: reading__
