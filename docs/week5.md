@@ -69,6 +69,25 @@ __Part 2: Writing__
 
 ## Examples
 
+There are, of course, a lot of examples that play with irony, sarcasm, satire, etc. However, when you work with *art* (in the most general sense of the word), is sometimes (often) is not completely or immediately clear if a piece is meant to be ironic, or did the artist mean the work in a more serious way. And, more general, when does a work of art really convey a *story*, a *narrative*...?
+
+Look, for example, at Jeroen Bosch' *Tuin der Lusten* (*The Garden of Earthly Delights*). There are a lot of narratives going on in this triptec; but do you think Bosch is to be taken *literal* here? Or is he working in a *metaforical* sense, or *ironic*...?
+
+![*The Garden of Earthly Delights* by Jeroen Bosch](imgs/bosch-tuin-der-lusten.jpeg)
+
+Bosch, of course, worked in the early Modern period (he died around 1516), but what about more contemporary artists like Jeff Koons, Richard Estes or Cor Groenenberg?
+
+- [Janet Echelman](https://www.echelman.com/work)
+- [Lozano Hemmer](https://www.lozano-hemmer.com/)
+- [Theo Jansen](https://www.strandbeest.com/)
+- [Daan Roosegaarde](https://www.studioroosegaarde.net/)
+
 ## Lectures
 
+- [How does art tell stories?](https://www.youtube.com/watch?v=IoHsju75rKc)
+- [Your story is your art](https://www.youtube.com/watch?v=6tIGWFxsXkg)
+
 ## Literature
+
+- [Resonant storytelling](https://graziellaluggen.substack.com/p/the-storytelling-resonance-framework)
+- *Resonance*, pp.145
