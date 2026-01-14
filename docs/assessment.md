@@ -7,11 +7,14 @@ For every session, a *practical* and a *writing* assignment are given on which y
 
 ## Portfolio
 
-On top of their elaborations from the weekly assignments, you are required to come up with more non-trivial examples of each of the subject (most notably from artists and designers, but perhaps also everyday examples). You also need to make explicit why this is an example of this particular subject.
+At the end of the term, you are asked to create a portfolio of all the exercises that we did during the classes. The subjects of this portfolio follows the table of contents of this website. Per subject you deliver the following:
+ 
+- Your elaboration of the reading exercises (in one way or another: use photos, links, google drive, ...)
+- Your elaboration of the writing exercises
+- A small description of the practical exercise that we did in class (if we did)
+- A short personal reflection on the subject
 
-Apart from that, you need to make clear you have actually read the mandatory reading assignments, using (for example but not limitted to) notes, markings or illustrations on the provided texts.
-
-This way, at the end of the term, you will have created a *portfolio*. This portfolio will be assessed from a theoretical viewpoint, both artistically and philosophically. 
+Your portfolio will be assessed from a theoretical viewpoint, both artistically and philosophically. 
 
 Is the portfolio __complete__? Does it contain answers to the questions that were raised during the module?
 
@@ -21,7 +24,6 @@ Is the portfolio __creative__? Does it contain creative and novel ideas and insi
 
 Is the portfolio __convincing__? Do the works and the texts gathers in the portfolio actually make sense?
 
-Feedback on the portfolio will be given at particular times during the module, so make sure that you work on it from the first day (and don't wait untill the last).
 
 ## Active participation
 
