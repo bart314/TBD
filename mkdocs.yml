@@ -57,12 +57,24 @@ nav:
   - Introduction: index.md
   - Assessment and learning outcomes: assessment.md
   - Presentations: presentations.md
-  - 1. World and Reality: week1.md
-  - 2. Time and Space: week2.md
-  - 3. Fact and Fiction: week3.md
-  - 4. Us and Them: week4.md
-  - 5. Presence and Absence: week5.md
-  - 6. Word and Object: week6.md
+  - 1. World and Reality:
+    - Introduction: week1/week1.md
+    - Exercises: week1/exercises.md
+  - 2. Time and Space:
+    - Introduction: week2/week2.md
+    - Exercises: week2/exercises.md
+  - 3. Fact and Fiction:
+    - Introduction: week3/week3.md
+    - Exercises: week3/exercises.md
+  - 4. Us and Them:
+    - Introduction: week4/week4.md
+    - Exercises: week4/exercises.md
+  - 5. Presence and Absence:
+    - Introduction: week5/week5.md
+    - Exercises: week5/exercises.md
+  - 6. Word and Object:
+    - Introduction: week6/week6.md
+    - Exercises: week6/exercises.md
 #  - 7. Resonance and Alienation: week7.md
 #  - 8. Synthesis and Evaluation: week8.md
   - Literature: literature.md
