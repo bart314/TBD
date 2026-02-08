@@ -21,7 +21,7 @@ We have several artistic (literary, creative, ...) practices at our disposal to 
 
 - __pastiche__: a work of visual art, literature, theatre, music, or architecture that imitates the style or character of the work of other artists. Unlike parody, pastiche pays homage to the work it imitates, rather than mocking it. ([wikipedia](https://en.wikipedia.org/wiki/Pastiche))
 
-![Estes: *Prescriptions filled*. 1983, oil on board](imgs/estes-prescriptions-filled.jpeg)
+![Estes: *Prescriptions filled*. 1983, oil on board](../imgs/estes-prescriptions-filled.jpeg)
 
 
 ## Examples
@@ -30,7 +30,7 @@ There are, of course, a lot of examples that play with irony, sarcasm, satire, e
 
 Look, for example, at Jeroen Bosch' *Tuin der Lusten* (*The Garden of Earthly Delights*). There are a lot of narratives going on in this triptec; but do you think Bosch is to be taken *literal* here? Or is he working in a *metaforical* sense, or *ironic*...?
 
-![*The Garden of Earthly Delights* by Jeroen Bosch](imgs/bosch-tuin-der-lusten.jpeg)
+![*The Garden of Earthly Delights* by Jeroen Bosch](../imgs/bosch-tuin-der-lusten.jpeg)
 
 Bosch, of course, worked in the early Modern period (he died around 1516), but what about more contemporary artists like Jeff Koons, Richard Estes or Cor Groenenberg?
 

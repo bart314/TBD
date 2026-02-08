@@ -6,7 +6,7 @@
 
 2. During the reces, try to find something (art, design, ...) that is mundane in your vicinity but would be remarkable in another (e.g. a commercial that makes perfect sense in your country but would be very strange to see in The Netherlands). Take it (or a photograph of it) with you the this session.
 
-![An octopus...](imgs/octopus.jpeg)
+![An octopus...](../imgs/octopus.jpeg)
 
 ## Practical exercise
 

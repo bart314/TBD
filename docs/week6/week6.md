@@ -16,7 +16,7 @@ Every animal that has ever lived, every species that has ever existed, has come 
 
 In order to describe this particular relationship between an organism and environment, the Baltic-German biologist [Jakob von Uexküll](https://en.wikipedia.org/wiki/Jakob_Johann_von_Uexk%C3%BCll) coined the term [*Umwelt*](https://en.wikipedia.org/wiki/Umwelt). Uexküll argued that organisms experience life in terms of species-specific, spatio-temporal, "self-in-world" subjective reference frames that he called Umwelt (which can be translated as surrounding-world, phenomenal world, self-world, environment, ...). 
 
-![Uexküll's *circular feedback system*](imgs/uexkülls-schema-original.jpeg)
+![Uexküll's *circular feedback system*](../imgs/uexkülls-schema-original.jpeg)
 
 All this is relevant for Time Based design and art, as it calls into question the way we *perceive* the works that we create. Actually, can we make art for non-human animals...? Can we create a world without words?
 

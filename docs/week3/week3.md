@@ -10,7 +10,7 @@ We open worlds by telling each other stories. However, in telling these stories,
 
 In this vain, [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) famously once said that 'if a lion could speak, we would not understand it' ('Wenn ein Löwe sprechen könnte, wir könnten ihn nicht verstehen', *philosophische Untersuchungen*, p.223). 
 
-![if a lion could speak, we would not understand it](imgs/lion.jpeg)
+![if a lion could speak, we would not understand it](../imgs/lion.jpeg)
 
 In this session, we will look into different ways in which we can describe the world and objects within it. We will see that an objective description of an object is not really conveying what the object actually *is*. We will see that most of our talk is done using metaphors.
 

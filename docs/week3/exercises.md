@@ -17,7 +17,7 @@ Again, read the text closely and critically. As you go, process the text: annota
 
 The processed text will be part of your exercises book. 
 
-![Metamorphosis: going from one form into another](imgs/metamorphosis.jpeg)
+![Metamorphosis: going from one form into another](../imgs/metamorphosis.jpeg)
 
 __Part 2: Writing__
 

@@ -5,7 +5,7 @@
 
 For the practical exercise of this week, we ask you to bring a commercial poster to class – a poster that communicates its convincing message very clear and immediate. The poster should contain both text and images. It is necessary that you bring this poster phyisically (so either a real poster, or a print of one).
 
-![A commercial poster](imgs/commercial-poster.jpeg)
+![A commercial poster](../imgs/commercial-poster.jpeg)
 
 Deconstruct or undermine the message of your poster using two deconstructive strategies from the list below. Apply these strategies in such a way that your deconstructed ad parodies or ironizes the original message and reveals a hidden meaning—making present what was previously absent. Clearly describe which two strategies you used.
 
@@ -32,7 +32,7 @@ __Reverse or queer the Binary Opposition__
 - Or queer the binary opposition. Turn the word humanity into humanimality, or turn humanity into humus-ity (Humus is dark, organic material that forms in soil when matter (animal, leaves and so on)  decays, essential to the fertility of the earth)
 - Make the opposite dominant, are make present what is absent (what is left out).
 
-![George Washinton crossing the Delaware – or is he?](imgs/george-washington-carver-crossing-the-delaware.jpeg)
+![George Washinton crossing the Delaware – or is he?](../imgs/george-washington-carver-crossing-the-delaware.jpeg)
 
 
 ## Textual excercise

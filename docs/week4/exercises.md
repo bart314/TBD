@@ -5,11 +5,12 @@
 
 In this session, we are going to make a few groups (three or four, depending on the number of participants). Each of this group is asked to create a group identity, including (but not limited to) narratives, rituals, ways of being-in-the-world.
 
+
 Start to write a short (creation) story that’s part of your world/community  in legible handwriting of around 300 words, containing a clear plot: introduction – conflict/climax – resolution/end. So set up a situation. Introduce a conflict, build up the dramatic tension until it reaches a high point or climax, and then release the tension and resolve the conflict (or turn into a tragic downfall). 
 
 After this creational phase, the groups are invited to investigate how they *relate* to each other – as if they were on a voyage of discovery and came across other cultures. 
 
-![The meeting of Cortés and Montezuma is shown in this image from a Tlaxcalan mural. The mural was completed by 1560, nearly 40 years after the Spanish conquest. Cortés’ interpreter, a Native American woman known as Malinche or Doña Marina, stands behind him.](imgs/cortes-montezuma.jpeg)
+![The meeting of Cortés and Montezuma is shown in this image from a Tlaxcalan mural. The mural was completed by 1560, nearly 40 years after the Spanish conquest. Cortés’ interpreter, a Native American woman known as Malinche or Doña Marina, stands behind him.](../imgs/cortes-montezuma.jpeg)
 
 ## Textual exercises
 

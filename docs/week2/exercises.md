@@ -5,7 +5,7 @@
 
 In this week's exercise, you are asked to work in duo's, go outside (of the classroom) and locate a particular space (and come up with the experience of time at that place). Next, you need to create some kind of intervention to change the (perception of) space and (the perception) of time. 
 
-![Salvator Dalí: La persistència de la memòria](imgs/dali-klok.jpeg)
+![Salvator Dalí: La persistència de la memòria](../imgs/dali-klok.jpeg)
 
 ## Textual exercises
 

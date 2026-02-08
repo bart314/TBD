@@ -12,7 +12,7 @@ Time as well as space have a tendency to *flow*: we are living in a time-space c
 
 However, this more mathematical form of time and space, this *isotrope* and *isochrone* ways of experience, doesn't resonate with the way we humans actually experience time or space. When standing in a plank-position, a minute will feel actually quite long, while on the other hand if you are watching an interesting movie the hours will pass without you actually noticing it.
 
-![When planking, a minute will feel like a very long time](imgs/planking.jpeg)
+![When planking, a minute will feel like a very long time](../imgs/planking.jpeg)
 
 When you are driving over a highway, you probably don't differentiate one view from another. But when you are suddently confronted with a monument, erected to commemorate someone who had an accident there, that particular place stands out from all the other points of the highway. The monument differentiates that place from all the other places of the highway.
 
