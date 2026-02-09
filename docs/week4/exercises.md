@@ -16,7 +16,7 @@ After this creational phase, the groups are invited to investigate how they *rel
 
 __Part 1: Reading__
 
-Read the chapter *Skywoman Falling* from the book [*Braiding Sweetgrass](https://en.wikipedia.org/wiki/Braiding_Sweetgrass) by [Robin Wall Kimmerer](https://www.esf.edu/faculty/kimmerer/). We have [provided a pdf that you can download here](files/Kimmerer-Skywoman-Falling.pdf) (or [here in Dutch 🇳🇱](files/Kimmerer-SkywomanDutch.pdf)). 
+Read the chapter *Skywoman Falling* from the book [*Braiding Sweetgrass](https://en.wikipedia.org/wiki/Braiding_Sweetgrass) by [Robin Wall Kimmerer](https://www.esf.edu/faculty/kimmerer/). We have [provided a pdf that you can download here](../files/Kimmerer-Skywoman-Falling.pdf) (or [here in Dutch 🇳🇱](../files/Kimmerer-SkywomanDutch.pdf)). 
 
 Again, read the text closely and critically. As you go, process the text: annotate by jotting down questions or comments in the margins, underlining important points, circling keywords, and marking places you may want to revisit. Feel free to underline, scribble, or doodle. 
 

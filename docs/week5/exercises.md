@@ -38,7 +38,7 @@ __Reverse or queer the Binary Opposition__
 ## Textual excercise
 __Part 1: Reading__
 
-Read the text [*How to write about Africa*](files/How-to-Write-About-Africa.pdf), a satire written in 2005 by [the late Binyavanga Wainaina](https://en.wikipedia.org/wiki/Binyavanga_Wainaina). While reading, make notes and annotations. Describe the technique that Wainaina is using, and what is he is trying to make present or absent. Do you think this text achieves its goal and would it work just as good if it was written by a white American?
+Read the text [*How to write about Africa*](../files/How-to-Write-About-Africa.pdf), a satire written in 2005 by [the late Binyavanga Wainaina](https://en.wikipedia.org/wiki/Binyavanga_Wainaina). While reading, make notes and annotations. Describe the technique that Wainaina is using, and what is he is trying to make present or absent. Do you think this text achieves its goal and would it work just as good if it was written by a white American?
 
 As always, the processed text will be part of your exercises book. 
 

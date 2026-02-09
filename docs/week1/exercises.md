@@ -9,7 +9,7 @@ In the practical exercise you are asked to think about the way you interact with
 
 __Part 1: Reading__
 
-Read [the (definition and example) essay *The Idea of Resonance as a Sociological Concept* by Hartmut Rosa](files/the-idea-of-resonance-as-a-sociological-concept_by-hartmut-rosa.pdf). First, skim the text to get an overview without trying to fully understand it – just to get a sense of what it’s about.
+Read [the (definition and example) essay *The Idea of Resonance as a Sociological Concept* by Hartmut Rosa](../files/the-idea-of-resonance-as-a-sociological-concept_by-hartmut-rosa.pdf). First, skim the text to get an overview without trying to fully understand it – just to get a sense of what it’s about.
 
 Then, read the text closely and critically.
 
