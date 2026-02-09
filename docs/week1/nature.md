@@ -11,8 +11,8 @@ Thunder — the Cricket —<br>
 <br>
 Nay — Nature is Harmony —<br>
 Nature is what we know —<br>
-<br>
 Yet have no art to say —<br>
+<br>
 So impotent Our Wisdom is<br>
 To her Simplicity.<br>
 <br>
