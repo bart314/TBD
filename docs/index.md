@@ -65,10 +65,10 @@ Be aware of the limits of ChatGPT and likely techniques:
 
 ## Table of contents
 
-1. [World and Reality](week1.md)
-2. [Time and Space](week2.md)
-3. [Fact and Fiction](week3.md)
-4. [Signal and Noise](week4.md)
-5. [We and Other](week5.md)
-6. [You and I](week6.md)
+1. [World and Reality](week1/week1.md)
+2. [Time and Space](week2/week2.md)
+3. [Fact and Fiction](week3/week3.md)
+4. [Signal and Noise](week4/week4.md)
+5. [We and Other](week5/week5.md)
+6. [You and I](week6/week6.md)
 7. [They and We](week7.md)
