@@ -11,7 +11,7 @@ __Part 1: Reading__
 
 Read [the (definition and example) essay *The Idea of Resonance as a Sociological Concept* by Hartmut Rosa](../files/the-idea-of-resonance-as-a-sociological-concept_by-hartmut-rosa.pdf). First, skim the text to get an overview without trying to fully understand it – just to get a sense of what it’s about.
 
-Then, read the text closely and critically.
+Then, read the text closely and critically. Come up with one or two questions about the text, which we can discuss in class.
 
 As you go, process the text: annotate by jotting down questions or comments in the margins, underlining important points, circling keywords, and marking places you may want to revisit. Feel free to underline, scribble, or doodle – this is what we call the *processed text*. 
 
