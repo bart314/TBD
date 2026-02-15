@@ -3,7 +3,7 @@
 === "Italiano"
     Quale canto s'èlevato stanotte<br>
     che intesse<br>
-    di cristallina del cuore<br>
+    di cristallina eco del cuore<br>
     le stelle<br>
     <br>
     Quale festa sorgiva<br>
