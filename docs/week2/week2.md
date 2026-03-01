@@ -49,8 +49,8 @@ Patrick Jean | Attack of the Pixels | [Youtube](https://www.youtube.com/watch?v=
 
 ## Literature
 
-- McLuhan, M., 1964, *Understanding Media: The Extensions of Man.*. McGraw-Hill.
+- McLuhan, M., 1964, *Understanding Media: The Extensions of Man.* McGraw-Hill.
 
 - Rosa (2022):
-  - §V.3 (pp... ; english edition: pp.164-174)
-  - §§IV.2, IV.3 (pp...; english edition: pp.124-132)
+    - §§IV.2, IV.3 (pp.211-225; english edition: pp.124-132)
+    - §V.3 (pp.281-299; english edition: pp.164-174)

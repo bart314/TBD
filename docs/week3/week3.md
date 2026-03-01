@@ -1,8 +1,8 @@
 # 3. Fact and Fiction
 
-> La rue assourdissante autour de moi hurlait.
+> Omnia Mutantor, Nihil Interit
 
-– Charles Beaudelaire
+– Ovidius
 
 ## Introduction: Narratives and Metaphors
 
@@ -18,7 +18,7 @@ Interestingly, Hartmut Rosa himself that his term 'Resonance' is used fundamenta
 
 === "DE"
     
-    Es kann kein Zwiefel daran bestehen, dass sich der Resonanzbegriff als Metapher zur Beschreibung von Beziehungsqualitäten in hohem Maße eignet und dass er ein enormes Anregungspotential für die Untersuchung von Weltverhältnissen auf nahezu allen Feldern des menschlichen Lebens entfaltet. Allein, eine solche metaphorische Verwendung des Begriffs genügt nicht den konzeptuellen und systematischen Anforderungen, um Resonanz als einen socialphilosophischen Grundbegriff und eine sozialwissenschaftliche Analysekategorie zu etablieren, auf die sich eine umfassende Soziologie der Weltbeziehung aufbauen ließe. (Rosa, 2022, p.281)
+    Es kann kein Zweifel daran bestehen, dass sich der Resonanzbegriff als Metapher zur Beschreibung von Beziehungsqualitäten in hohem Maße eignet und dass er ein enormes Anregungspotential für die Untersuchung von Weltverhältnissen auf nahezu allen Feldern des menschlichen Lebens entfaltet. Allein, eine solche metaphorische Verwendung des Begriffs genügt nicht den konzeptuellen und systematischen Anforderungen, um Resonanz als einen socialphilosophischen Grundbegriff und eine sozialwissenschaftliche Analysekategorie zu etablieren, auf die sich eine umfassende Soziologie der Weltbeziehung aufbauen ließe. (Rosa, 2022, p.281)
 
 === "EN"
 
@@ -30,8 +30,18 @@ Who | What | Where
 Meret Oppenheimer | A Woman's Work | [MoMa](https://www.moma.org/collection/works/80997)
 Robert Rauschenberg | Bed | [MoMa](https://www.moma.org/collection/works/78712)
 Marcel Duchamp | Fountain | [Wikipedia](https://en.wikipedia.org/wiki/Fountain_(Duchamp))
+Salvator Dalí | Lobster Telephone | [Wikipedia](https://en.wikipedia.org/wiki/Lobster_Telephone)
+Huma Bhabha | Bleekmen | [MoMa](https://www.moma.org/collection/works/143370)
+Irma Hünerfauth | Instead of Air | [irma-huenerfauth.de](https://www.irma-huenerfauth.de/en/occammensch.html)
+Svetlana Kopystiansky | Achitecton | [Centre Pompidou](https://www.centrepompidou.fr/fr/ressources/oeuvre/cXrxRp)
 
 
 ## Lectures
+
+- [‘Rosalie Gascoigne’ at The Ian Potter Centre](https://artblart.com/tag/rosalie-gascoigne-metropolis/)
+- [The art of the metaphor - Jane Hirshfield](https://www.youtube.com/watch?v=A0edKgL9EgM)
+- [Metaphors We Live By: George Lakoff and Mark Johnson](https://www.youtube.com/watch?v=lYcQcwUfo8c)
+- [George Lakoff on Framing](https://www.youtube.com/watch?v=S_CWBjyIERY)
+
 
 ## Literature
