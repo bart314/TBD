@@ -11,7 +11,7 @@ During class, we will work on coming up with different descriptions of this obje
 
 __Part 1: Reading__
 
-Read "Concepts we Live By", the first chapter of [*Metaphors we Live By*](https://www.umsl.edu/~alexanderjm/MetaphorsWeLiveBy.pdf)(pp. 3-6). Use the knowledge, insights and vocabulary that we have conveyed during this class to put this text in a broader context.
+Read "Concepts we Live By", the first chapter of [*Metaphors we Live By*](../files/lakoff.pdf)(pp. 3-6). Use the knowledge, insights and vocabulary that we have conveyed during this class to put this text in a broader context.
 
 Again, read the text closely and critically. As you go, process the text: annotate by jotting down questions or comments in the margins, underlining important points, circling keywords, and marking places you may want to revisit. Feel free to underline, scribble, or doodle. 
 
