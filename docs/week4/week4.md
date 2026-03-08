@@ -33,3 +33,6 @@ Blast Theory | Can You See Me Now? | [BlastTheory.com](https://www.blasttheory.c
 - [Suzanne Lacy on *Three Weeks in May*](https://www.youtube.com/watch?v=ie7A8F0D-k4)
 
 ## Literature
+
+- Ivan Márquez, 2014, *Analysis of Jimmy Nelson’s Before They Pass Away*. [Download the pdf](../files/marquez-2014.pdf) 
+- Rosa, 2022, §IX.3: *Die Kraft der Kunst* (pp.472-500; English edition: *The Power of Art*, pp,280-296)

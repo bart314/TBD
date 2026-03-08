@@ -26,4 +26,3 @@ __Part 2: Writing__
 
 Finish the creation story that was part of [the practical exercise](#practical-exercise). You can do this in group, but please deliver it on an individual basis.
 
-*Resonance on Resonance*: in our sessions we talk a lot about resonance – you could almost see that phenomenon as a myth of creation for our small community. Write a small, personal and critical essay on how you feel within that community. What do you like and what don't you like about that community...? What would you like to change or add to it?

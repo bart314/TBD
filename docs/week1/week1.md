@@ -75,7 +75,9 @@ Philip Vermeulen on the making of More Moiré (Sonic Acts). See [this presentati
 
 - Rosa, H., 2018, [The Idea of Resonance as a Sociological Concept](https://globaldialogue.isa-sociology.org/articles/the-idea-of-resonance-as-a-sociological-concept)
 
-- Rosa (2022):
-    - §§IV.3, IV.4 (pp.211-224; english edition: pp.126-137)
-    - §§V.3, V.4 (pp.281-315; english edition: pp.164-183)
+- Rosa, 2022:
+    - §IV.3: *Kognitieve Landkarten und kulturelle Weltbilder* (pp.215-225; English edition: *Cognitive Roadmaps and Cultural Worldviews*, pp.126-132).
+    - §IV.4: *Landkarten der Bewertung und des Begehrens* (pp.225-235; English edition: *Roadmaps of Desire and Evaluation*, pp.132-138).
+    - §V.3: *Resonanz* (pp.281-299; English edition: *Resonance*, pp.164-174).
+    - §V.4: *Entfremdung* (pp.299-316; English edition: *Alienation*, pp.174-184).
 

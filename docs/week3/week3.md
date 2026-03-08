@@ -38,6 +38,7 @@ Svetlana Kopystiansky | Achitecton | [Centre Pompidou](https://www.centrepompido
 
 ## Lectures
 
+- [Studio Binder: What is a Visual Metaphor](https://www.studiobinder.com/blog/what-is-a-visual-metaphor-definition/)
 - [‘Rosalie Gascoigne’ at The Ian Potter Centre](https://artblart.com/tag/rosalie-gascoigne-metropolis/)
 - [The art of the metaphor - Jane Hirshfield](https://www.youtube.com/watch?v=A0edKgL9EgM)
 - [Metaphors We Live By: George Lakoff and Mark Johnson](https://www.youtube.com/watch?v=lYcQcwUfo8c)
@@ -45,3 +46,5 @@ Svetlana Kopystiansky | Achitecton | [Centre Pompidou](https://www.centrepompido
 
 
 ## Literature
+- Donald Davidson, 1978, "What Metaphors Mean". Reprinted in *Inquiries into Truth and Interpretation.* (1984). Oxford UP.
+- George Lakoff, 1980, *Metaphors We Live By.* Chicago UP.

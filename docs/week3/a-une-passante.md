@@ -1,4 +1,3 @@
-A Une Passante
 
 === "Français"
     La rue assourdissante autour de moi hurlait. <br>

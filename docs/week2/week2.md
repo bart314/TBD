@@ -51,6 +51,7 @@ Patrick Jean | Attack of the Pixels | [Youtube](https://www.youtube.com/watch?v=
 
 - McLuhan, M., 1964, *Understanding Media: The Extensions of Man.* McGraw-Hill.
 
-- Rosa (2022):
-    - §§IV.2, IV.3 (pp.211-225; english edition: pp.124-132)
-    - §V.3 (pp.281-299; english edition: pp.164-174)
+- Rosa, 2022:
+    - §IV.2: *Welterfahrung und Weltaneignung* (pp.211-215; English edition: )
+    - §IV.3: *Kognitieve Landkarten und kulturelle Weltbilder* (pp.215-225; English edition: *Cognitive Roadmaps and Cultural Worldviews*, pp.126-132).
+    - §V.3: *Resonanz* (pp.281-299; English edition: *Resonance*, pp.164-174).
