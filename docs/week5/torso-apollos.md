@@ -41,6 +41,6 @@
 
     (Translation: [Stephen Mitchell](https://en.wikipedia.org/wiki/Stephen_Mitchell_(translator)))
 
-- [Reiner Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke)
+- [Reiner Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) (1875 - 1926)
 
 ![The Miletus torso (c. 480–470 BC) at the Louvre has been suggested as the poem's subject.](../imgs/torso-apollo.jpeg)

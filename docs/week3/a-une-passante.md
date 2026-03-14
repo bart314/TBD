@@ -38,7 +38,7 @@
     O you whom I would have loved, O you who knew it!<br><br>
     (translation: William Aggeler)<br>
 
-– Charles Baudelaire (1821 - 1867)
+– [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire) (1821 - 1867)
 
 (See [https://fleursdumal.org/](https://fleursdumal.org/poem/224))
 

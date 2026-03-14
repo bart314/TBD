@@ -39,6 +39,6 @@
     from the universe<br><br>
     (translation: BB)
 
-– Guiseppe Ungaretti (1888 - 1970)
+– [Guiseppe Ungaretti](https://en.wikipedia.org/wiki/Giuseppe_Ungaretti) (1888 - 1970)
 
 ![Starry Night by Van Gogh](../imgs/starry-night.jpeg)

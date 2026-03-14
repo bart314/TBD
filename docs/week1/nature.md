@@ -16,7 +16,7 @@ Yet have no art to say —<br>
 So impotent Our Wisdom is<br>
 To her Simplicity.<br>
 <br>
-– Emily Dickenson (1830 - 1886)
+– [Emily Dickenson](https://en.wikipedia.org/wiki/Emily_Dickinson) (1830 - 1886)
 
 ![The bobolink](../imgs/bobolink.jpeg)
 
