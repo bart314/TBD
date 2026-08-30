@@ -79,4 +79,4 @@ week number | date | subject
 
 ## Credits
 
-These pages are made by [Bart Barnard](https://www.bartbarnard.nl/cv/) in [mkdocs](https://www.mkdocs.org/) [*without* the use of AI](https://notbyai.fyi/). The source file are [available on github]()
+These pages are made by [Bart Barnard](https://www.bartbarnard.nl/cv/) in [mkdocs](https://www.mkdocs.org/) [*without* the use of AI](https://notbyai.fyi/). The source file are [available on github](https://github.com/bart314/TBD).
