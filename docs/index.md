@@ -76,3 +76,7 @@ week number | date | subject
 5 | 29 September | [We and Other](week5/week5.md)
 6 | 7 October | [You and I](week6/week6.md)
 7 | 30 October | [They and We](week7.md)
+
+## Credits
+
+These pages are made by [Bart Barnard](https://www.bartbarnard.nl/cv/) in [mkdocs](https://www.mkdocs.org/) [*without* the use of AI](https://notbyai.fyi/). The source file are [available on github]()

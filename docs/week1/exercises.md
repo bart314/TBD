@@ -7,6 +7,23 @@ In this week's exercise, you are asked to work in duo's, go outside (of the clas
 
 ![Salvator Dalí: La persistència de la memòria](../imgs/dali-klok.jpeg)
 
+### Part 1
+
+- Form pairs.
+- Outside or inside the building, investigate two different (types of) spaces (e.g. cafeteria versus workshop). Where do they differ and where do they agree in (the perception of) time and space?
+- Have an open mind for your own influence. How do you influence your experience of time and space, and what is the relation between you and your surroundings?
+- Choose two spaces.
+
+### Part 2
+- Think about interventions that you can use to change (these perception of) time and space.
+- Think about adding or removing light or sound, changing  the position or orientation of furniture, rituals, ... 
+- Perform these interventions.
+- Discuss the results with each other.
+
+### Part 3
+Document your experiments with photos and / or video's. Make pictures of the space before and after your intervention.
+
+
 ## Textual exercises
 
 __Part 1: Reading__
@@ -26,3 +43,5 @@ Using your experience of the practical assignment, please write a *comparison/co
 - Describe what the space was like *after* the intervention (use reactions of your fellow-student).
 - Compare the two. Has the experience of space and time changed?
 - Use text, photos and/or video's
+
+![New York Waterfall – Olafur Eliasson (2008)](../imgs/eliasson-2008.jpeg)

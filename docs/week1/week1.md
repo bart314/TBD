@@ -30,18 +30,16 @@ We will talk about the way buildings form space in the same way that rituals for
 
 Who | What | Where
 --|--|--
-Olafur Eliasson | Collective Experience | [Youtube](https://www.youtube.com/watch?v=Ksm2eInvuwU)
-Alice Cheung | Group 5 Video essay (Psychogeography and Drifting) | [Youtube](https://www.youtube.com/watch?v=wU-6N6l0Cn0)
-Marina Abramović | The Artist is Present | [Youtube](https://www.youtube.com/watch?v=taKQwPTtRjg)
-David Claerbout | The Shape of Time | [Youtube](https://www.youtube.com/watch?v=RWKVx6DFlO0)
-Erwin Wurm | One Minute Sculptures | [Youtube](https://www.youtube.com/watch?v=vX91fcNjhlc)
-Cory Arcange | Super Mario Clouds | [Youtube](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
-Patrick Jean | Attack of the Pixels | [Youtube](https://www.youtube.com/watch?v=ugV6cLgwomo)
+Cory Arcange | Super Mario Clouds (2002) | [Youtube](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
+Erwin Wurm | One Minute Sculptures (2025) | [Youtube](https://www.youtube.com/watch?v=vX91fcNjhlc)
+Zbigniew Rybczyński | Tango (1980) | [Youtube](https://www.youtube.com/watch?v=AcHGjrt8-gM)
+Cyriak | Circles (2010) | [Youtube](https://www.youtube.com/watch?v=-0Xa4bHcJu8)
+Patrick Jean | Pixels (2010) | [Youtube](https://www.youtube.com/watch?v=ugV6cLgwomo)
 
 ## Lectures
 
-- [David Claerbout interview about Duration in his work.](https://www.youtube.com/watch?v=gTad4uUhK1o)
 - [Olafur Eliasson about Playing with Space and Light](https://www.ted.com/talks/olafur_eliasson_playing_with_space_and_light)
+- [David Claerbout interview about Duration in his work.](https://www.youtube.com/watch?v=gTad4uUhK1o)
 - [Interview with Bill Viola: Cameras are Keepers of the Souls ](https://www.youtube.com/watch?v=w3VfWLlkuRI)
 - [How Robert Wilson Bends Time](https://www.youtube.com/watch?v=BA67jt8QiKo)
 - [James Turrell at the Guggenheim Museum](https://www.youtube.com/watch?v=MVoMJHSNyI0)
