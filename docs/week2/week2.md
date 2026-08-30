@@ -1,57 +1,83 @@
-# 2. Time and Space
+# 1. World and Reality
 
-> Le temps est invention, ou il n’est rien du tout.
+> Die Welt ist alles, was der Fall ist
 
-– Henri Bergson
+– Ludwig Wittgenstein
 
-## Introduction: Temporalities
 
-In this session, we will look into the phenomena of *Time* and *Space*. We will see that you can look at both of them in (at least) a mathematical and in a phenomenological sense, that there is an inherent friction between those ways of seeing, and that interesting things start to happen when you make this friction explicit.
+## Introduction: Resonance
 
-Time as well as space have a tendency to *flow*: we are living in a time-space continuum and it seems as though there is no escaping this fundamental property of human existence. On the face of it, time and space seem indifferent to human existence.
+When we look around in our world, we encounter a lot of stuff in it: chairs, telephones, planes, trains, or automobiles. However, this stuff *means* something to us: we can use a chair to sit on, or a train to get from A to B.
 
-However, this more mathematical form of time and space, this *isotrope* and *isochrone* ways of experience, doesn't resonate with the way we humans actually experience time or space. When standing in a plank-position, a minute will feel actually quite long, while on the other hand if you are watching an interesting movie the hours will pass without you actually noticing it.
+However, apart from this more functional meaning, the stuff we encounter also has a particula meaning *for* us: my telephone means something to me, as yours does to you. However, the meaning I attach to my telephone is (in all likelihood) *different* from the meaning you attach to yours.
 
-![When planking, a minute will feel like a very long time](../imgs/planking.jpeg)
+And it is probable that you have some stuff that only has a *meaning*, a *significance* for you, like a stone you picked up when you were a kid, some poster or design you created when you were a juvenile. Or there are things that mean something to you and to people like you, or you gravitate towards (kind of) people that attach (kind of) the same significance to the same (kind of) objects...
 
-When you are driving over a highway, you probably don't differentiate one view from another. But when you are suddently confronted with a monument, erected to commemorate someone who had an accident there, that particular place stands out from all the other points of the highway. The monument differentiates that place from all the other places of the highway.
-
-We will talk about the way buildings form space in the same way that rituals form time. We follow Martin Heidegger's lead, when he states that mankind *is* only in so far as we *build*:
-
-=== "DE"
-
-    Der Bezug des Menschen zu Orten und durcht Orte zu Räumen beruht im Wohnen. Das Verhältnis von Mensch und Raum ist nichts anderes als das wesentlich gedachten Wohnen. (Heidegger, 2000, p. 160)
-
-=== "EN"
-
-    Man’s relation to locales, and through locales to spaces, inheres in his dwelling. The relationship between man and space is none other than *dwelling*, thought essentially. (Heidegger, 2008, p. 159)
+All this leads us to conclude that the world we experience is something different than the object we encounter in it. In this first session, we are going to investigate the way this works. In so doing, we will look into *resonance* as a meaningful way of relating to the world.
 
 ## Examples
 
-Who | What | Where
---|--|--
-Olafur Eliasson | Collective Experience | [Youtube](https://www.youtube.com/watch?v=Ksm2eInvuwU)
-Alice Cheung | Group 5 Video essay (Psychogeography and Drifting) | [Youtube](https://www.youtube.com/watch?v=wU-6N6l0Cn0)
-Marina Abramović | The Artist is Present | [Youtube](https://www.youtube.com/watch?v=taKQwPTtRjg)
-David Claerbout | The Shape of Time | [Youtube](https://www.youtube.com/watch?v=RWKVx6DFlO0)
-Erwin Wurm | One Minute Sculptures | [Youtube](https://www.youtube.com/watch?v=vX91fcNjhlc)
-Cory Arcange | Super Mario Clouds | [Youtube](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
-Patrick Jean | Attack of the Pixels | [Youtube](https://www.youtube.com/watch?v=ugV6cLgwomo)
+__William Forsythe: Nowhere and Everywhere at the Same Time__
+
+
+![Nowhere and Everywhere at the Same Time, no.2](../imgs/forsythe_nowhere_2.jpeg)
+
+Suspended from automated grids, more than 400 pendulums are activated to initiate a sweeping 15 part counterpoint of tempi, spacial juxtaposition and gradients of centrifugal force which offers the spectator a constantly morphing labyrinth of significant complexity. The spectators are free to attempt a navigation this statistically unpredictable environment, but are requested to avoid coming in contact with any of the swinging pendulums.
+
+[See this installation on youtube](https://www.youtube.com/watch?v=as1bQ6Xl_fg)
+
+[Read the description by William Forsythe](https://www.williamforsythe.com/exhibitions.html?detail=1&uid=54)
+
+__William Forsythe: The Fact of the Matter__
+
+The Fact of Matter is a choreographic object. The object is not so much there to be seen, as to be used. An engagement with the object offers the visitor a possible re-assessment of their mass, strength, and coordination skill as a unified system.
+
+![The Fact of the Matter](../imgs/forsythe_fact_matter.jpeg)
+
+[See this installation on youtube](https://www.youtube.com/watch?v=Cn3Ry08vKR4)
+
+[Read the description by William Forsythe](https://www.williamforsythe.com/installations.html?detail=1&uid=29)
+
+
+__William Forsythe: City of Abstracts__
+
+Through trial and error, viewers learn how to activate themselves in order to know more about their role in the construction of the images on the screen. What results are inadvertent choreographies, initiated through inquiry, not intent. 
+
+![City of Abstracts](../imgs/forsythe_city_of_abstracts.jpeg)
+
+[See this installation on youtube](https://www.youtube.com/watch?v=R3ZNB-tDj5c)
+
+[Read the description by William Forsythe](https://www.williamforsythe.com/installations.html?detail=1&uid=5)
+
 
 ## Lectures
 
-- [David Claerbout interview about Duration in his work.](https://www.youtube.com/watch?v=gTad4uUhK1o)
-- [Olafur Eliasson about Playing with Space and Light](https://www.ted.com/talks/olafur_eliasson_playing_with_space_and_light)
-- [Interview with Bill Viola: Cameras are Keepers of the Souls ](https://www.youtube.com/watch?v=w3VfWLlkuRI)
-- [How Robert Wilson Bends Time](https://www.youtube.com/watch?v=BA67jt8QiKo)
-- [James Turrell at the Guggenheim Museum](https://www.youtube.com/watch?v=MVoMJHSNyI0)
+__John Cage about Silence__
+
+John Cage is the composer of [the famous piece 4'33"](). With this work, he questions the role of silence in music. At the time of its conception, Cage was studying Zen Buddism under [Daisetz Suzuki](https://en.wikipedia.org/wiki/D._T._Suzuki), which led him to conclude that "each and every thing in all of time and space is related to each and every other thing in all of time and space". In [this interesting lecture on youtube](https://www.youtube.com/watch?v=pcHnL7aS64Y), he talks about the role of silence in his philosophy and musical compositions.
+
+![John Cage on silence](../imgs/john_cage.jpeg)
+
+__Tate Collective: Rebecca Horn – Body Extensions and Isolation__
+
+Rebecca Horn was a German visual artist best known for her installation art, film directing and body modifications such as Einhorn (Unicorn), a body-suit with a very large horn projecting vertically from the headpiece [wikipedia](https://en.wikipedia.org/wiki/Rebecca_Horn). In [this video on youtube](https://www.youtube.com/watch?v=6uEkq3IBIf0), Joey from Tate Collective London presents her perspective on this performative artwork.
+
+![Rebecca Horn, Übungen in neun Stücken](../imgs/rebecca-horn.jpeg)
+
+__Sonic Acts: Philip Vermeulen on making More Moiré__
+r
+Philip Vermeulen on the making of More Moiré (Sonic Acts). See [this presentation on youtube](https://www.youtube.com/watch?v=PWB1mLQU8-g).
+
+![Philip Vermeulen More Moiré](../imgs/vermeulen-sonic-acts.jpeg)
 
 
 ## Literature
 
-- McLuhan, M., 1964, *Understanding Media: The Extensions of Man.* McGraw-Hill.
+- Rosa, H., 2018, [The Idea of Resonance as a Sociological Concept](https://globaldialogue.isa-sociology.org/articles/the-idea-of-resonance-as-a-sociological-concept)
 
 - Rosa, 2022:
-    - §IV.2: *Welterfahrung und Weltaneignung* (pp.211-215; English edition: )
     - §IV.3: *Kognitieve Landkarten und kulturelle Weltbilder* (pp.215-225; English edition: *Cognitive Roadmaps and Cultural Worldviews*, pp.126-132).
+    - §IV.4: *Landkarten der Bewertung und des Begehrens* (pp.225-235; English edition: *Roadmaps of Desire and Evaluation*, pp.132-138).
     - §V.3: *Resonanz* (pp.281-299; English edition: *Resonance*, pp.164-174).
+    - §V.4: *Entfremdung* (pp.299-316; English edition: *Alienation*, pp.174-184).
+

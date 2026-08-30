@@ -7,27 +7,29 @@ For every session, a *practical* and a *writing* assignment are given on which y
 
 ## Portfolio
 
-At the end of the term, you are asked to create a portfolio of all the exercises that we did during the classes. The subjects of this portfolio follows the table of contents of this website. Per subject you deliver the following:
+At the end of the term, you need to deliver a portfolio that contains elaborations of all the exercises that we did during the classes. The portfolio should be *one document* (possibly with links to other external documents) that you upload in the `theory`-directory on Teams. 
+
+The subjects of this portfolio follows the table of contents of this website. Per subject you deliver the following:
  
-- Your elaboration of the reading exercises (in one way or another: use photos, links, google drive, ...)
-- Your elaboration of the writing exercises
-- A small description of the practical exercise that we did in class (if we did)
-- A short personal reflection on the subject
+- Your **elaboration of the reading exercises** (in one way or another: use photos, links, google drive, ...)
+- Your **elaboration of the writing exercises**
+- A **small description of the practical exercise** that we did in class (if we did)
+- A **short personal reflection** on the subject
 
-Your portfolio will be assessed from a theoretical viewpoint, both artistically and philosophically. 
+You encapsulate these elaborations with a general introduction of and conclusion / reflection on the whole module. 
 
-Is the portfolio __complete__? Does it contain answers to the questions that were raised during the module?
+- Is the portfolio __complete__? Does it contain answers to the questions that were raised during the module?
 
-Is the portfolio __thorough__? Do the answers prove to be interesting, complete, thorough, detailed, ...?
+- Is the portfolio __thorough__? Do the answers prove to be interesting, complete, thorough, detailed, ...?
 
-Is the portfolio __creative__? Does it contain creative and novel ideas and insights?
+- Is the portfolio __creative__? Does it contain creative and novel ideas and insights?
 
-Is the portfolio __convincing__? Do the works and the texts gathers in the portfolio actually make sense?
+- Is the portfolio __convincing__? Do the works and the texts gathers in the portfolio actually make sense?
 
 
 ## Active participation
 
-Apart from the eighty-percent rule, you also need to be active during the class. This includes (but is not limited to) being *present* during the theoretical part (making notes etc.), being *active* during the individual elaborations (actually working etc.), and being *engaged* during the discussions (asking questions etc.). 
+Apart from [the eighty-percent rule](index.md#formal-issues), you also need to be active during the class. This includes (but is not limited to) being *present* during the theoretical part (making notes etc.), being *active* during the individual elaborations (actually working etc.), and being *engaged* during the discussions (asking questions etc.). 
 
 We will take notes on the participation of each of the students and will try to make sure everybody gets the opportunity to make themself heard.
 

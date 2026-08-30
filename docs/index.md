@@ -1,7 +1,5 @@
 # General introduction
 
-## Summary
-
 When we look at [the description of this module](https://www.academieminerva.nl/en/programmes/design/majors/time-based
 ), we read the following:
 
@@ -13,9 +11,11 @@ When we look at [the description of this module](https://www.academieminerva.nl/
 === "NL"
     Je leert als ontwerper werken met objecten, bewegende beelden en licht om verhalen te kunnen vertellen. Dat doe je binnen de context van bijvoorbeeld theater, film, evenementen en openbare ruimte, in ensceneringen, choreografieën en videoclips. Je doet zelfstandig en in teams ervaring op met het werken aan grote en kleine producties waarbij je vaak samenwerkt met professionele organisaties. 
 
-    Door te werken met ruimte, tijd en lichaam ontdek je polariteiten als binnen/buiten en schijn/werkelijkheid. In je proces leer een archief van materialen aan te leggen, te experimenteren en je ontwerp uit te voeren. Je vindt uiteindelijk je eigen plek in deze discipline, waarbij zowel je manier van werken als de context waarin je dat doet passen bij wat jou fascineert. 
+    Door te werken met ruimte, tijd en lichaam ontdek je polariteiten als binnen/buiten en schijn/werkelijkheid. In je proces leer je een archief van materialen aan te leggen, te experimenteren en je ontwerp uit te voeren. Je vindt uiteindelijk je eigen plek in deze discipline, waarbij zowel je manier van werken als de context waarin je dat doet passen bij wat jou fascineert. 
 
-When we tell stories, we *create a world* in which that story takes place. Every narrative, even the smallest one, transposes the listener to the world that is *opened* throught that narrative: a world that has its own *time*, its own *space*, and its own *logic() and *internal consistency*.
+As desigers we create *interactions* that change or make use of the *meanings* that we attribute to *objects*. We will see that these meanings are always embedded in particular *stories*. 
+
+When we tell stories, we *create a world* in which that story takes place. Every narrative, even the smallest one, transposes the listener to the world that is *opened* throught that narrative: a world that has its own *time*, its own *space*, and its own *logic* and *internal consistency*.
 
 In this module, we investigate this world-opening. Specifically, we are interested in our *relation to the world*. We look at different perspectives and different aspects of this relation, create different experiments to make this relation explicit, and try to make different kinds of worlds. 
 
@@ -25,7 +25,9 @@ Our goal is to impart a good theoretical basis of the key-words of the module: s
 
 This module consists of seven sessions of 2.5 hours each. Every session is build around a central aspect of the *world-opening*. We start with a small theoretical exposé on that aspect, after which an assignment is given on which the students will works on an individual basis for about an hour – the form of the results of this work vary and are given at the assignment. After this hour, we reconvene and use the remaining time to discuss the results.
 
-Every week, every aspect of the module has its own page on this small website. This page contains a general introduction, a description of the assignment, examples, keywords and literature. Some of the literature is mandatory reading, other literature is given as extra background-information. We expect students to prepare for every session by going over the assignment and reading the mandatory literature.
+Every week, every aspect of the module has its own page on this small website. This page contains a general introduction, a description of the assignment, case-studies, keywords and literature. Some of the literature is mandatory reading, other literature is given as extra background-information. 
+
+We expect students to prepare for every session by going over the assignment and reading the mandatory literature.
 
 Apart from this, every week a *writing exercise* is given, one that is usually (but not always) to be made *before* the lesson. The exact details of these writing exercises will be given at the end of each session, but a small description of it is already present in these pages.
 
@@ -33,7 +35,7 @@ Students should keep track of their preparations, their elaborations of the assi
 
 ## Formal issues
 
-This is a 3EC module, which means the total workload is 84 hours (3 &times; 28). Given seven sessions of 2.5 hours each, this leads to the following table:
+This is a 3EC module, which means the total workload is **84 hours** (3 &times; 28). Given seven sessions of 2.5 hours each, this leads to the following table:
 
 description | calculation | workload
 ---|---|---
@@ -51,11 +53,11 @@ As is described in [the OER (§5.2, login required)](https://hanzenl.sharepoint.
 
 ## Notes on the use of AI
 
-We expect you to use AI (ChatGPT and image generation tools, at a minimum) in this module; in fact, some assignments will require it. Learning to use AI is an emerging skill and we will provide tutorials about how to do this in an efficient and interesting way.
+We don't mind if you use AI during this module – to provide answers to questions, as a sparring-partner, or for image or text generation. Learning to use AI is an emerging skill and if it comes up we will talk about how to do this in an efficient and interesting way.
 
-Be aware of the limits of ChatGPT and likely techniques:
+Be aware of the limits of generative AI:
 
-- If you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work.
+- If you provide minimum effort prompts, you will get low quality results. You will need to refine your prompts in order to get good outcomes. This will take work and practice.
 
 - Don't believe *anything* it says. If it gives you facts, assume them to be wrong and make sure you check them in some other way or reference. You will be responsible for any errors or omissions provided by the tool.
 
@@ -65,10 +67,12 @@ Be aware of the limits of ChatGPT and likely techniques:
 
 ## Table of contents
 
-1. [World and Reality](week1/week1.md)
-2. [Time and Space](week2/week2.md)
-3. [Fact and Fiction](week3/week3.md)
-4. [Signal and Noise](week4/week4.md)
-5. [We and Other](week5/week5.md)
-6. [You and I](week6/week6.md)
-7. [They and We](week7.md)
+week number | date | subject
+---|---|---
+1 | 1 September | [World and Reality](week1/week1.md)
+2 | 8 September | [Time and Space](week2/week2.md)
+3 | 15 September | [Fact and Fiction](week3/week3.md)
+4 | 22 September | [Signal and Noise](week4/week4.md)
+5 | 29 September | [We and Other](week5/week5.md)
+6 | 7 October | [You and I](week6/week6.md)
+7 | 30 October | [They and We](week7.md)

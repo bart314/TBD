@@ -1,6 +1,6 @@
 site_name: Time Based Design – theory
-copyright: HG 2025
-site_author: Bart Barnard and Hille Engelsma
+copyright: HG 2026
+site_author: Bart Barnard
 site_description: 'Theoretical module of Time Based Design'
 use_directory_urls: false
 
@@ -15,6 +15,9 @@ theme:
   include_sidebar: false
 extra_css:
   - css/extra.css
+
+plugins:
+  - caption
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -37,8 +40,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -56,13 +57,12 @@ extra_javascript:
 nav:
   - Introduction: index.md
   - Assessment and learning outcomes: assessment.md
-  - Presentations: presentations.md
-  - 1. World and Reality:
-    - Nature is what we see: week1/nature.md
+  - 1. Time and Space:
+    - La Notte Bella: week1/la-notte-bella.md
     - Introduction: week1/week1.md
     - Exercises: week1/exercises.md
-  - 2. Time and Space:
-    - La Notte Bella: week2/la-notte-bella.md
+  - 2. World and Reality:
+    - Nature is what we see: week2/nature.md
     - Introduction: week2/week2.md
     - Exercises: week2/exercises.md
   - 3. Fact and Fiction:

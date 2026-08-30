@@ -1,5 +1,7 @@
 # La Notte Bella
 
+(1916)
+
 === "Italiano"
     Quale canto s'èlevato stanotte<br>
     che intesse<br>
@@ -41,4 +43,4 @@
 
 – [Guiseppe Ungaretti](https://en.wikipedia.org/wiki/Giuseppe_Ungaretti) (1888 - 1970)
 
-![Starry Night by Van Gogh](../imgs/starry-night.jpeg)
+![Dinamismo di forme e luce nello spazio (Gino Severini, 1912)](../imgs/severini-dinamismo.jpeg)
