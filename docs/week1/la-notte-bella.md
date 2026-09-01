@@ -43,4 +43,6 @@
 
 – [Guiseppe Ungaretti](https://en.wikipedia.org/wiki/Giuseppe_Ungaretti) (1888 - 1970)
 
+[Listen to the poem (read by Laura Storci)](../files/la-notte-bella.mp3)
+
 ![Dinamismo di forme e luce nello spazio (Gino Severini, 1912)](../imgs/severini-dinamismo.jpeg)

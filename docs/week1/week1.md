@@ -51,3 +51,4 @@ Patrick Jean | Pixels (2010) | [Youtube](https://www.youtube.com/watch?v=ugV6cLg
     - §IV.2: *Welterfahrung und Weltaneignung* (pp.211-215; English edition: *Experiencing World and Appropriating World*, pp.124-126).
     - §IV.3: *Kognitieve Landkarten und kulturelle Weltbilder* (pp.215-225; English edition: *Cognitive Roadmaps and Cultural Worldviews*, pp.126-132).
     - §V.3: *Resonanz* (pp.281-299; English edition: *Resonance*, pp.164-174).
+
