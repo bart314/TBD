@@ -57,6 +57,7 @@ extra_javascript:
 nav:
   - Introduction: index.md
   - Assessment and learning outcomes: assessment.md
+  - About essays: essay.md
   - 1. Time and Space:
     - La Notte Bella: week1/la-notte-bella.md
     - Introduction: week1/week1.md

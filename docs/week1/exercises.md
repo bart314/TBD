@@ -36,7 +36,7 @@ The processed text will be part of your portfolio.
 
 __Part 2: Writing__
 
-Using your experience of the practical assignment, please write a *comparison/contrast essay* in which you compare the situation (in space, in time) *before* and *after* your intervention.
+Using your experience of the practical assignment, please write [a *comparison/contrast essay*](../essay.md#different-types-of-essay) in which you compare the situation (in space, in time) *before* and *after* your intervention.
 
 - Describe what you are going to investigate.
 - Describe what the space was like *before* the intervention.
